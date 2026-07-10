@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Dairy Farm Management System",
+  "description": "A comprehensive dairy farm management system with role-based access for Admins, Drivers, Accountants, and Lab Technicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
