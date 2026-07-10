@@ -7,9 +7,6 @@ build/
 .next/
 
 # env
-.env
-.env.local
-.env.production
 
 # logs
 npm-debug.log*
@@ -20,10 +17,10 @@ pnpm-debug.log*
 .DS_Store
 
 # vscode
-.vscode/
 
 # coverage
 coverage/
 
 # prisma
 prisma/dev.db-journal
+config.bat

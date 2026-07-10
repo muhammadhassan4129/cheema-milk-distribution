@@ -5,8 +5,8 @@
   "main": "src/app.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node src/app.js",
-    "dev": "cross-env NODE_ENV=development nodemon src/app.js",
+    "start": "node init && node src/app.js",
+    "dev": "node init && cross-env NODE_ENV=development nodemon src/app.js",
     "seed": "node src/utils/seed.js",
     "cleanup": "node src/utils/cleanup.js"
   },
